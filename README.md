@@ -28,4 +28,8 @@ Breve descrição introdutória do trabalho a realizar
 [Github](https://github.com/)
 
 ## Imagens do Projeto (h2)
-![Logotipo](https://www.logotipo.pt/wp-content/uploads/2015/09/googs-new.jpg)
+![Logotipo](https://neilpatel.com/wp-content/uploads/2019/06/logotipo-da-empresa-de-vestuario-lacoste.png)
+
+
+## Tabela (h2)
+
