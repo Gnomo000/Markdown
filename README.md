@@ -25,4 +25,7 @@ Breve descrição introdutória do trabalho a realizar
 3. Tarefa - [ ] - por realizar
 
 ## Links do Projeto (h2)
-[Github](https://github.com/Gnomo000)
+[Github](https://github.com/)
+
+## Imagens do Projeto (h2)
+![Logotipo](https://www.logotipo.pt/wp-content/uploads/2015/09/googs-new.jpg)
