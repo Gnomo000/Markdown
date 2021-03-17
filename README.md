@@ -18,3 +18,8 @@ Breve descrição introdutória do trabalho a realizar
 * Requesito 1
 * Requesito 2
 * Requesito 3
+
+## Lista de Tarefas (h2)
+1. Tarefa - [x] - concluída
+2. Terefa - [] - por realizar
+3. Tarefa - [] - por realizar
