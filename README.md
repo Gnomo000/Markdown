@@ -37,3 +37,9 @@ Nomes | Idades
 Daniel | 18
 Luís | 46
 André | 15
+
+`Código`
+
+*Itálico*
+
+**Negrito**
